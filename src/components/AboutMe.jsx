@@ -29,7 +29,7 @@ export default function AboutMe() {
               </div>
             </div>
             <div className="about-exp-card" style={{ borderLeftColor: "var(--accent2)" }}>
-              <div className="about-exp-num" style={{ background: "var(--grad2)", WebkitBackgroundClip: "text", WebkitTextFillColor: "transparent", backgroundClip: "text" }}>50+</div>
+              <div className="about-exp-num" style={{ background: "var(--grad2)", WebkitBackgroundClip: "text", WebkitTextFillColor: "transparent", backgroundClip: "text" }}>15+</div>
               <div className="about-exp-label">Enterprise Projects Delivered</div>
               <div className="about-expertise-pills">
                 <span className="exp-pill" style={{ background: "rgba(124,58,237,0.1)", borderColor: "rgba(124,58,237,0.2)", color: "var(--accent2)" }}>SIP Trunking</span>
