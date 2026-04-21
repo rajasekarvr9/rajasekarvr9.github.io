@@ -70,7 +70,7 @@ const Hero = () => {
               <div className="hero-stat-label">Years Experience</div>
             </div>
             <div className="hero-stat">
-              <div className="hero-stat-num" ref={el => statRefs.current[1] = el}>50+</div>
+              <div className="hero-stat-num" ref={el => statRefs.current[1] = el}>15+</div>
               <div className="hero-stat-label">Projects Delivered</div>
             </div>
             <div className="hero-stat">
