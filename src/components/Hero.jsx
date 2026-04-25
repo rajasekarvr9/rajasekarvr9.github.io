@@ -6,7 +6,7 @@ const Hero = () => {
 
   useEffect(() => {
     // Animate stat counters on mount
-    const targets = [13, 50, 12, 11];
+    const targets = [13, 15, 12, 11];
     const suffixes = ["+", "+", "+", "+"];
     const labels = statRefs.current;
     targets.forEach((target, i) => {
@@ -56,8 +56,8 @@ const Hero = () => {
               <i className="fas fa-paper-plane" /> Work with Me
             </button>
             <a
-              href={`${import.meta.env.BASE_URL}Rajasekhar_AvayaContactCenterEngineer_Resume.docx`}
-              download="Rajasekhar_AvayaContactCenterEngineer_Resume.docx"
+              href={`${import.meta.env.BASE_URL}Rajasekhar__ContactCenter_Engineer_Resume.docx`}
+              download="Rajasekhar__ContactCenter_Engineer_Resume.docx"
               className="btn-secondary"
             >
               <i className="fas fa-download" /> Download Resume
