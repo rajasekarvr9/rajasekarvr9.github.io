@@ -18,7 +18,7 @@ export default function Projects() {
       title: "Smart Customer Support IVR",
       desc: "Built an intelligent IVR system with dynamic routing, NLP-powered intent recognition, real-time analytics integration, and seamless agent escalation. Reduced call handle time by 35%.",
       tags: [{ label: "Amazon Connect", cls: "tag-aws" }, { label: "AWS Lambda", cls: "tag-aws" }, { label: "Amazon Lex", cls: "tag-ai" }, { label: "IVR", cls: "tag-ivr" }],
-      link: "https://github.com/rajasekarvr9",
+      link: "https://github.com/",
     },
     {
       icon: "💳",
