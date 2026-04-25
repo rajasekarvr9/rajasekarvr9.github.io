@@ -32,7 +32,7 @@ export default function Clients() {
       <div className="section-inner" ref={ref}>
         <div className="reveal">
           <div className="section-label">Enterprise Clients</div>
-          <h2 className="section-title">Trusted by <span className="grad">Global Leaders</span></h2>
+          <h2 className="section-title">Worked with <span className="grad">Global Leaders</span></h2>
         </div>
         <div className="clients-grid">
           {clients.map((c, idx) => (
